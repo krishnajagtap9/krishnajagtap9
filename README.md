@@ -1,166 +1,116 @@
-<h1 align="center">Hey 👋, I'm Krishna Kumar Jagtap</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Tech Entrepreneur | ⚙️ Backend Enthusiast</h3>
+# 👋 Hey there! I'm Krishna Kumar Jagtap
 
-<p align="center">
-  <a href="https://kodrish.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Kodrish.me-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:jagtapkanaha987@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-</p>
+🔧 **Full Stack Developer** | 🖥️ **Co-founder at [Kodrish Innovation & Solution LLP](https://kodrish.me)**  
+🎓 B.Tech in Computer Science (Data Science) | IPS Academy, Indore  
+🏆 Finalist - **Smart India Hackathon 2024 - "Water Wise Wiki"**  
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Full Stack Web Developer** with **1+ years of professional experience** in tech entrepreneurship and product development. As a proud **Co-founder of [Kodrish Innovation & Solution LLP](https://kodrish.me)**, I build scalable digital products that solve real-world problems.
+I’m a **results-driven full stack developer** with over **1+ years of experience** in building **scalable**, **user-focused web applications** using modern technologies like **React.js**, **Node.js**, **Express.js**, and **MongoDB**. I'm also the **co-founder** of *Kodrish Innovation & Solution LLP*, where I lead web development initiatives and contribute to impactful digital solutions.  
 
-💡 Passionate about:
-- Crafting **backend architectures** & **RESTful APIs**
-- Building **real-time systems** with WebSockets
-- Designing **user-friendly** and **performant UIs**
-- Team collaboration, **project leadership**, and **hackathons**
-
-🏆 **Smart India Hackathon 2024 Finalist** | Open-Source Contributor | Tech Community Enthusiast
+I'm passionate about:
+- Backend architecture & API development 🔧  
+- Real-time web applications ✨  
+- Clean UI/UX & performance optimization 🎯  
+- Problem solving & hackathons 💡
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 |
- Frontend        
+ Domain        
 |
- Backend         
-|
- Database         
-|
- DevOps & Tools         
-|
- Other Skills           
+ Technologies                                                                 
 |
 |
------------------
+---------------
 |
------------------
-|
-------------------
-|
-------------------------
-|
-------------------------
+------------------------------------------------------------------------------
 |
 |
- React.js        
+ 💻 Frontend    
 |
- Node.js         
-|
- MongoDB          
-|
- Git, GitHub, Render, Vercel 
-|
- Project Management     
+ React.js, JavaScript, Tailwind CSS, React Native (Basics)                   
 |
 |
- JavaScript      
+ 🔙 Backend     
 |
- Express.js      
-|
- Mongoose ODM     
-|
- Apache, Hugging Face  
-|
- Hackathon Participation 
+ Node.js, Express.js, REST APIs, JWT, MVC Architecture                        
 |
 |
- Tailwind CSS    
+ 🗄️ Database     
 |
- REST APIs, JWT  
-|
- MongoDB Atlas    
-|
- Thunder Client         
-|
- Team Collaboration     
+ MongoDB, Mongoose ODM, MongoDB Atlas, Aggregation Framework                  
 |
 |
- React Native 🔰 
+ 🚀 Deployment  
 |
- MVC Architecture
+ GitHub, Git Bash, Vercel, Render, Hugging Face, Apache                      
 |
- Aggregation Pipelines 
 |
- Postman, Git Bash     
+ ☁️ Tools       
 |
- Time Management        
+ Thunder Client, Postman, Git, VS Code                                       
+|
+|
+ 🧠 Soft Skills 
+|
+ Leadership, Team Collaboration, Time Management, Communication              
 |
 
 ---
 
-### 🌟 Featured Projects
+## 🧩 Projects
 
-📱 **[Holistic Mental Health Tracker](#)**  
-A web platform for mood tracking, journaling, and mental health resources with gamification and guided meditations.  
-`React.js | Node.js | Express.js | MongoDB`
+### 🌿 [Holistic Mental Health Tracker](#)
+Personalized platform with mood tracking, journaling, guided meditations, crisis support, and gamification.  
+Tech: `React.js`, `Node.js`, `Express.js`, `JavaScript`
 
-🤟 **[Vanni Sahayak](#)**  
-Sign language accessibility platform with gesture detection, text-to-sign, and ISL learning interface.  
-`Webcam | Canvas APIs | React.js | Tailwind CSS | Node.js`
+### 🧏‍♂️ [Vanni Sahayak](#)
+Indian Sign Language accessibility platform with gesture detection via webcam and image uploads.  
+Tech: `React.js`, `Tailwind CSS`, `Express.js`, `REST APIs`
 
-🛡️ **Auth System with Role-Based Access**  
-JWT auth with role-based access and user management.  
-`Node.js | Express.js | MongoDB | React.js`
+### 🔐 Authentication System  
+JWT-based secure login/signup with role-based access control.  
+Tech: `React`, `Node.js`, `Express.js`, `MongoDB`
 
-💬 **Real-Time Group Chat System**  
-React + WebSocket-based messaging and feedback management.  
-`JavaScript | WebSockets | Nodemailer`
+### 💬 Real-Time Group Chat & Feedback  
+Built using `WebSockets`, enables real-time messaging and user feedback with email notifications.
 
-📚 **School Task Manager**  
-Tasks, notices, files — all managed for students and teachers.  
-`React | Express | MySQL | File Upload System`
+### 🏫 School Task Manager  
+Simplifies task and notes sharing between teachers and students with role-based access.  
+Tech: `React`, `Node.js`, `MySQL`
 
-🐾 **Animal Search Engine**  
-Real-time search powered by Wikipedia’s API.  
-`React.js | Fetch API | External Integrations`
+### 🐾 Animal Search Engine  
+Real-time animal information search with external API integration (Wikipedia).
 
 ---
 
-### 🏆 Certifications & Achievements
+## 🏆 Achievements
 
-- 🏅 **SIH 2024 Finalist** – Smart India Hackathon, Ramaiah University, Bangalore
-- 🥇 Winner – *Minor Project, Udaan II*, CSI IPS Academy
-- 🥉 3rd Position – *Project Expo*, Oriental University Indore
-- 🎖️ Best Presentation – *Hack Sangam*, IPS Academy
-- 💡 Participant – *Hackathons* (Void Hacks, CreaTech L&T, Bit N Build, InnoThon, Hacknovare)
-
----
-
-### 🎓 Education
-
-**B.Tech in Computer Science (Data Science Specialization)**  
-Institute of Engineering & Science, IPS Academy, Indore  
-📅 *2022 – 2026* | 📈 *CGPA: 8.1/10*
+- 🏅 **Smart India Hackathon 2024 – Finalist**
+- 🥇 Winner – Minor Project Udaan Phase II, IPS Academy
+- 🥉 3rd Place – Project Expo, Oriental University Indore
+- 🎖️ Best Presentation – Hack Sangam, IPS Academy
+- 👨‍💻 Multiple National Hackathon Participation (Void Hacks(), Hacknovare, Bit N Build, SKITECH, Hackathon PIEMR)
 
 ---
 
-### 📬 Let's Connect & Collaborate
+## 📫 Let's Connect
 
-💌 **Email:** [jagtapkanaha987@gmail.com](mailto:jagtapkanaha987@gmail.com)  
-🌐 **Portfolio:** [kodrish.me](https://kodrish.me)  
-💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com)  
-🐙 **GitHub:** [github.com](https://github.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile Views&color=blue&style=flat" alt="Profile Views">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-</p>
+- 📧 Email: [jagtapkanaha987@gmail.com](mailto:jagtapkanaha987@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 💻 [My Website – Kodrish.me](https://kodrish.me)  
+- 💡 [GitHub Projects](https://github.com/)  
 
 ---
 
-### ⚡ Fun Fact
-🧠 I build best under pressure — and hackathons fuel my creativity.
+### ⚡ Fun Fact:
+I like building things that solve real problems — especially when working with a great team and a tight deadline (like hackathons 😄)!
 
 ---
 
-> *"Code. Collaborate. Create."*
+*Thanks for visiting my profile! Feel free to explore my repositories and connect.* 🙌
